@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Monument';
+  src: url('https://db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.eot');
+  src: url('https://db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.eot?#iefix') format('embedded-opentype'),
+    url('https://db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.woff2') format('woff2'),
+    url('https://db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.woff') format('woff'),
+    url('https://db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.ttf') format('truetype'),
+    url('https://db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.svg#Monument Extended Bold') format('svg');
+}
+
+@font-face {
+  font-family: 'Bigilla';
+  src: url('https://db.onlinewebfonts.com/t/f7bc9f3a43d932504a1acd84c3452ff8.eot');
+  src: url('https://db.onlinewebfonts.com/t/f7bc9f3a43d932504a1acd84c3452ff8.eot?#iefix') format('embedded-opentype'),
+    url('https://db.onlinewebfonts.com/t/f7bc9f3a43d932504a1acd84c3452ff8.woff2') format('woff2'),
+    url('https://db.onlinewebfonts.com/t/f7bc9f3a43d932504a1acd84c3452ff8.woff') format('woff'),
+    url('https://db.onlinewebfonts.com/t/f7bc9f3a43d932504a1acd84c3452ff8.ttf') format('truetype'),
+    url('https://db.onlinewebfonts.com/t/f7bc9f3a43d932504a1acd84c3452ff8.svg#Bigilla') format('svg');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #161616;
+  overflow: hidden;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+}
